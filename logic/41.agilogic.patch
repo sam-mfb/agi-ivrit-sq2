@@ -1,0 +1,11 @@
+--- project/tmp/src/logic/41.agilogic
++++ translations/sq2/logic/41.agilogic
+@@ -132,7 +132,7 @@
+     step.size(o10, v53);
+     move.obj(o10, 91, 132, 0, f30);
+     v32 = 14;
+-    add.to.pic(117, 0, 0, 86, 96, 4, 4);
++    add.to.pic(117, 0, 0, 66, 100, 4, 4);
+   }
+
+   if (v32 == 12) {

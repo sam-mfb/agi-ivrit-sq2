@@ -1,0 +1,49 @@
+--- project/tmp/src/logic/103.agilogic	
++++ translations/sq2/logic/103.agilogic
+@@ -6,32 +6,32 @@
+ display(3, 16, m2);
+ 
+ if ((v20 == 4) || (v20 == 5)) {
+-  display(6, 4, m17);
++  display(6, 2, m17);
+ } else {
+-  display(6, 4, m3);
++  display(6, 2, m3);
+ }
+-display(7, 4, m4);
+-display(8, 4, m5);
+-display(9, 4, m7);
+-display(10, 4, m9);
+-display(11, 4, m11);
+-display(14, 3, m13);
+-display(15, 3, m14);
++display(7, 2, m4);
++display(8, 2, m5);
++display(9, 2, m7);
++display(10, 2, m9);
++display(11, 2, m11);
++display(14, 2, m13);
++display(15, 2, m14);
+ 
+ if (v20 == 4) {
+   display(15, 36, m19);
+-  display(18, 0, m18);
++  display(18, 2, m18);
+ } else {
+-  display(16, 0, m15);
++  display(16, 2, m15);
+ }
+ 
+ if ((v20 == 0) && (v26 < 2)) {
+-  display(17, 0, m16);
++  display(17, 2, m16);
+ }
+ 
+ if (v20 == 2) {
+-  display(20, 4, m20);
+-  display(21, 4, m21);
++  display(20, 2, m20);
++  display(21, 2, m21);
+ }
+ 
+ Address117:

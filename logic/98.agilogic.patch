@@ -1,0 +1,19 @@
+--- project/tmp/src/logic/98.agilogic
++++ translations/sq2/logic/98.agilogic
+@@ -2,12 +2,12 @@
+ set(f129);
+ prevent.input();
+ text.screen();
+-display(5, 10, m1);
++display(5, 7, m1);
+ display(9, 11, m2);
+-display(10, 6, m3);
+-display(12, 9, m4);
++display(10, 11, m3);
++display(12, 11, m4);
+ open.dialogue();
+-get.string(s1, m5, 16, 5, 18);
++get.string(s1, m5, 16, 21, 18);
+ parse(s1);
+ close.dialogue();
+ 

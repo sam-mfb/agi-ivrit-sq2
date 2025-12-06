@@ -1,0 +1,154 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "gameName": "",
+    "contentType": "objects",
+    "sourceLanguage": "en",
+    "targetLanguage": "",
+    "extractedDate": "2025-11-15T19:43:13.310Z",
+    "totalObjects": 20,
+    "maxAnimatedObjects": 20
+  },
+  "objects": [
+    {
+      "index": 20,
+      "original": "Order Form",
+      "translation": "טופס הזמנה",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 21,
+      "original": "Supporter",
+      "translation": "תומך אתלטי",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 22,
+      "original": "Berries",
+      "translation": "פירות יער",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 23,
+      "original": "Spore",
+      "translation": "נבג",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 24,
+      "original": "Glowing Gem",
+      "translation": "אבן חן זוהרת",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 25,
+      "original": "Rope",
+      "translation": "חבל",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 26,
+      "original": "Whistle",
+      "translation": "משרוקית",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 27,
+      "original": "Stone",
+      "translation": "אבן",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 28,
+      "original": "Plunger",
+      "translation": "פומפה",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 29,
+      "original": "Toilet Paper",
+      "translation": "נייר טואלט",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 30,
+      "original": "Waste Basket",
+      "translation": "סל אשפה",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 31,
+      "original": "Basket with Paper",
+      "translation": "סל עם נייר",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 32,
+      "original": "Glass Cutter",
+      "translation": "מחתך זכוכית",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 33,
+      "original": "Lighter",
+      "translation": "מצית",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 34,
+      "original": "Cage Key",
+      "translation": "מפתח לכלוב",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 35,
+      "original": "Dialect Translator",
+      "translation": "מתרגם ניבים",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 36,
+      "original": "Keycard",
+      "translation": "כרטיס מגנטי",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 37,
+      "original": "Puzzle",
+      "translation": "פאזל",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 38,
+      "original": "Empty Spore",
+      "translation": "נבג ריק",
+      "startingRoom": 0,
+      "notes": ""
+    },
+    {
+      "index": 39,
+      "original": "Oxygen Mask",
+      "translation": "מסכת חמצן",
+      "startingRoom": 0,
+      "notes": ""
+    }
+  ]
+}

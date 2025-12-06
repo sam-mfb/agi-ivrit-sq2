@@ -1,0 +1,5202 @@
+{
+  "commands": [
+    {
+      "type": "DisablePictureDraw"
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 4
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 15
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 79,
+          "y": 38
+        },
+        {
+          "x": 127,
+          "y": 38
+        },
+        {
+          "x": 127,
+          "y": 118
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 79,
+          "y": 38
+        },
+        {
+          "x": 37,
+          "y": 38
+        },
+        {
+          "x": 34,
+          "y": 38
+        },
+        {
+          "x": 34,
+          "y": 120
+        },
+        {
+          "x": 127,
+          "y": 120
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 127,
+          "y": 120
+        },
+        {
+          "x": 113,
+          "y": 96
+        },
+        {
+          "x": 113,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 55,
+          "y": 30
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 10
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 79,
+        "y": 109
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 3
+        },
+        {
+          "x": 3,
+          "y": 3
+        },
+        {
+          "x": 6,
+          "y": 2
+        },
+        {
+          "x": 5,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": -1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": -1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 2,
+          "y": -2
+        },
+        {
+          "x": 1,
+          "y": -1
+        },
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 1,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 103,
+          "y": 110
+        },
+        {
+          "x": 103,
+          "y": 51
+        }
+      ]
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 126,
+          "y": 39
+        },
+        {
+          "x": 113,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 10
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 79,
+          "y": 109
+        },
+        {
+          "x": 79,
+          "y": 51
+        },
+        {
+          "x": 82,
+          "y": 50
+        },
+        {
+          "x": 100,
+          "y": 50
+        },
+        {
+          "x": 101,
+          "y": 50
+        },
+        {
+          "x": 102,
+          "y": 51
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 88,
+          "y": 50
+        },
+        {
+          "x": 88,
+          "y": 39
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 94,
+          "y": 50
+        },
+        {
+          "x": 94,
+          "y": 39
+        }
+      ]
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 112,
+          "y": 97
+        },
+        {
+          "x": 104,
+          "y": 97
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 45,
+          "y": 40
+        },
+        {
+          "x": 79,
+          "y": 40
+        },
+        {
+          "x": 80,
+          "y": 40
+        },
+        {
+          "x": 80,
+          "y": 50
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 44,
+        "y": 40
+      },
+      "relativePoints": [
+        {
+          "x": -5,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 95,
+          "y": 42
+        },
+        {
+          "x": 112,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 80,
+          "y": 42
+        },
+        {
+          "x": 87,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 10
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 80,
+        "y": 96
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 6,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": -1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": -1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 2,
+          "y": -2
+        },
+        {
+          "x": 1,
+          "y": -2
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 80,
+        "y": 94
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": -2
+        },
+        {
+          "x": 4,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 86,
+          "y": 91
+        },
+        {
+          "x": 96,
+          "y": 91
+        },
+        {
+          "x": 99,
+          "y": 92
+        },
+        {
+          "x": 102,
+          "y": 94
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 80,
+          "y": 62
+        },
+        {
+          "x": 87,
+          "y": 63
+        },
+        {
+          "x": 98,
+          "y": 63
+        },
+        {
+          "x": 99,
+          "y": 62
+        },
+        {
+          "x": 102,
+          "y": 62
+        }
+      ]
+    },
+    {
+      "type": "DisablePictureDraw"
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 88,
+          "y": 55
+        },
+        {
+          "x": 93,
+          "y": 47
+        },
+        {
+          "x": 89,
+          "y": 108
+        },
+        {
+          "x": 90,
+          "y": 97
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 117,
+          "y": 79
+        },
+        {
+          "x": 105,
+          "y": 40
+        },
+        {
+          "x": 82,
+          "y": 41
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 116,
+          "y": 92
+        },
+        {
+          "x": 124,
+          "y": 104
+        },
+        {
+          "x": 124,
+          "y": 103
+        },
+        {
+          "x": 116,
+          "y": 90
+        },
+        {
+          "x": 116,
+          "y": 91
+        },
+        {
+          "x": 124,
+          "y": 102
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 117,
+          "y": 83
+        },
+        {
+          "x": 124,
+          "y": 90
+        },
+        {
+          "x": 116,
+          "y": 81
+        },
+        {
+          "x": 116,
+          "y": 83
+        },
+        {
+          "x": 116,
+          "y": 81
+        },
+        {
+          "x": 124,
+          "y": 89
+        },
+        {
+          "x": 124,
+          "y": 88
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 124,
+          "y": 87
+        },
+        {
+          "x": 116,
+          "y": 81
+        },
+        {
+          "x": 123,
+          "y": 87
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "PlotWithPen",
+      "points": [
+        {
+          "position": {
+            "x": 116,
+            "y": 83
+          }
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 124,
+          "y": 101
+        },
+        {
+          "x": 116,
+          "y": 90
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 116,
+          "y": 74
+        },
+        {
+          "x": 124,
+          "y": 76
+        },
+        {
+          "x": 124,
+          "y": 75
+        },
+        {
+          "x": 116,
+          "y": 73
+        },
+        {
+          "x": 122,
+          "y": 75
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 116,
+          "y": 72
+        },
+        {
+          "x": 124,
+          "y": 74
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 124,
+          "y": 77
+        },
+        {
+          "x": 116,
+          "y": 74
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 116,
+          "y": 71
+        },
+        {
+          "x": 124,
+          "y": 73
+        },
+        {
+          "x": 124,
+          "y": 72
+        },
+        {
+          "x": 116,
+          "y": 70
+        },
+        {
+          "x": 118,
+          "y": 71
+        },
+        {
+          "x": 122,
+          "y": 72
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 116,
+          "y": 80
+        },
+        {
+          "x": 124,
+          "y": 86
+        },
+        {
+          "x": 124,
+          "y": 85
+        },
+        {
+          "x": 116,
+          "y": 79
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 118,
+        "y": 81
+      },
+      "relativePoints": [
+        {
+          "x": 4,
+          "y": 3
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 116,
+          "y": 89
+        },
+        {
+          "x": 124,
+          "y": 100
+        },
+        {
+          "x": 124,
+          "y": 99
+        },
+        {
+          "x": 116,
+          "y": 88
+        },
+        {
+          "x": 124,
+          "y": 98
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 4
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 98,
+        "y": 86
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -5
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 98,
+          "y": 81
+        },
+        {
+          "x": 80,
+          "y": 76
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 78,
+          "y": 75
+        },
+        {
+          "x": 45,
+          "y": 65
+        },
+        {
+          "x": 35,
+          "y": 71
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 35,
+          "y": 83
+        },
+        {
+          "x": 45,
+          "y": 73
+        },
+        {
+          "x": 97,
+          "y": 86
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 98,
+          "y": 75
+        },
+        {
+          "x": 46,
+          "y": 58
+        },
+        {
+          "x": 35,
+          "y": 61
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 35,
+          "y": 49
+        },
+        {
+          "x": 46,
+          "y": 49
+        },
+        {
+          "x": 98,
+          "y": 70
+        },
+        {
+          "x": 98,
+          "y": 74
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 98,
+        "y": 65
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 98,
+        "y": 65
+      },
+      "relativePoints": [
+        {
+          "x": -6,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 78,
+          "y": 57
+        },
+        {
+          "x": 45,
+          "y": 41
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 78,
+          "y": 51
+        },
+        {
+          "x": 58,
+          "y": 41
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 69,
+          "y": 76
+        },
+        {
+          "x": 83,
+          "y": 79
+        },
+        {
+          "x": 80,
+          "y": 67
+        },
+        {
+          "x": 75,
+          "y": 63
+        },
+        {
+          "x": 97,
+          "y": 64
+        },
+        {
+          "x": 72,
+          "y": 50
+        },
+        {
+          "x": 40,
+          "y": 56
+        },
+        {
+          "x": 41,
+          "y": 71
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 56,
+        "y": 39
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 51,
+          "y": 39
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 53,
+          "y": 85
+        },
+        {
+          "x": 54,
+          "y": 63
+        },
+        {
+          "x": 56,
+          "y": 50
+        },
+        {
+          "x": 76,
+          "y": 43
+        },
+        {
+          "x": 72,
+          "y": 39
+        },
+        {
+          "x": 39,
+          "y": 46
+        },
+        {
+          "x": 41,
+          "y": 65
+        },
+        {
+          "x": 41,
+          "y": 83
+        },
+        {
+          "x": 82,
+          "y": 87
+        },
+        {
+          "x": 105,
+          "y": 48
+        },
+        {
+          "x": 60,
+          "y": 110
+        },
+        {
+          "x": 87,
+          "y": 47
+        }
+      ]
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 45,
+        "y": 72
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -6
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 45,
+        "y": 57
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -7
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 55,
+          "y": 39
+        },
+        {
+          "x": 44,
+          "y": 39
+        },
+        {
+          "x": 43,
+          "y": 39
+        },
+        {
+          "x": 56,
+          "y": 39
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 79,
+          "y": 82
+        },
+        {
+          "x": 79,
+          "y": 63
+        },
+        {
+          "x": 79,
+          "y": 60
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 83,
+          "y": 114
+        },
+        {
+          "x": 83,
+          "y": 101
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 97,
+          "y": 115
+        },
+        {
+          "x": 97,
+          "y": 102
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 96,
+          "y": 62
+        },
+        {
+          "x": 96,
+          "y": 51
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 83,
+          "y": 61
+        },
+        {
+          "x": 83,
+          "y": 51
+        }
+      ]
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 88,
+          "y": 59
+        },
+        {
+          "x": 88,
+          "y": 108
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 81,
+          "y": 107
+        },
+        {
+          "x": 81,
+          "y": 57
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 100,
+          "y": 61
+        },
+        {
+          "x": 100,
+          "y": 51
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 100,
+          "y": 113
+        },
+        {
+          "x": 100,
+          "y": 100
+        }
+      ]
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 99,
+          "y": 108
+        },
+        {
+          "x": 99,
+          "y": 59
+        },
+        {
+          "x": 93,
+          "y": 45
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 102,
+          "y": 58
+        },
+        {
+          "x": 102,
+          "y": 103
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 83,
+        "y": 63
+      },
+      "relativePoints": [
+        {
+          "x": -1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 80,
+          "y": 82
+        },
+        {
+          "x": 97,
+          "y": 86
+        },
+        {
+          "x": 97,
+          "y": 87
+        },
+        {
+          "x": 80,
+          "y": 83
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 80,
+          "y": 69
+        },
+        {
+          "x": 97,
+          "y": 74
+        },
+        {
+          "x": 97,
+          "y": 75
+        },
+        {
+          "x": 80,
+          "y": 70
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 97,
+        "y": 65
+      },
+      "relativePoints": [
+        {
+          "x": -1,
+          "y": 0
+        },
+        {
+          "x": -3,
+          "y": -1
+        },
+        {
+          "x": 2,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 80,
+          "y": 64
+        },
+        {
+          "x": 97,
+          "y": 71
+        },
+        {
+          "x": 96,
+          "y": 70
+        },
+        {
+          "x": 91,
+          "y": 68
+        },
+        {
+          "x": 89,
+          "y": 67
+        },
+        {
+          "x": 84,
+          "y": 65
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 97,
+          "y": 72
+        },
+        {
+          "x": 80,
+          "y": 65
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 80,
+          "y": 77
+        },
+        {
+          "x": 96,
+          "y": 81
+        },
+        {
+          "x": 97,
+          "y": 82
+        },
+        {
+          "x": 97,
+          "y": 83
+        },
+        {
+          "x": 80,
+          "y": 78
+        },
+        {
+          "x": 89,
+          "y": 80
+        },
+        {
+          "x": 97,
+          "y": 82
+        }
+      ]
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 93,
+          "y": 97
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 4
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 15
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 127,
+        "y": 120
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "DisablePictureDraw"
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 87,
+          "y": 34
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 10
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 40,
+          "y": 119
+        },
+        {
+          "x": 45,
+          "y": 109
+        },
+        {
+          "x": 45,
+          "y": 109
+        },
+        {
+          "x": 61,
+          "y": 109
+        },
+        {
+          "x": 63,
+          "y": 111
+        },
+        {
+          "x": 64,
+          "y": 115
+        },
+        {
+          "x": 68,
+          "y": 119
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 91,
+        "y": 119
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 35,
+          "y": 117
+        },
+        {
+          "x": 43,
+          "y": 105
+        },
+        {
+          "x": 45,
+          "y": 105
+        },
+        {
+          "x": 50,
+          "y": 105
+        },
+        {
+          "x": 53,
+          "y": 105
+        },
+        {
+          "x": 55,
+          "y": 103
+        },
+        {
+          "x": 56,
+          "y": 100
+        },
+        {
+          "x": 56,
+          "y": 81
+        },
+        {
+          "x": 55,
+          "y": 79
+        },
+        {
+          "x": 53,
+          "y": 79
+        },
+        {
+          "x": 52,
+          "y": 80
+        },
+        {
+          "x": 51,
+          "y": 81
+        },
+        {
+          "x": 51,
+          "y": 95
+        },
+        {
+          "x": 50,
+          "y": 96
+        },
+        {
+          "x": 46,
+          "y": 96
+        },
+        {
+          "x": 43,
+          "y": 96
+        },
+        {
+          "x": 40,
+          "y": 97
+        },
+        {
+          "x": 35,
+          "y": 102
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 57,
+        "y": 102
+      },
+      "relativePoints": [
+        {
+          "x": 4,
+          "y": 0
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 3,
+          "y": 4
+        },
+        {
+          "x": 3,
+          "y": 4
+        },
+        {
+          "x": 3,
+          "y": 4
+        },
+        {
+          "x": 6,
+          "y": 1
+        },
+        {
+          "x": 5,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 45,
+          "y": 74
+        },
+        {
+          "x": 45,
+          "y": 95
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 66,
+          "y": 104
+        },
+        {
+          "x": 78,
+          "y": 104
+        }
+      ]
+    },
+    {
+      "type": "DisablePictureDraw"
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 68,
+        "y": 108
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 75,
+          "y": 115
+        },
+        {
+          "x": 83,
+          "y": 115
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 68,
+          "y": 119
+        },
+        {
+          "x": 68,
+          "y": 109
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 91,
+        "y": 118
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 83,
+        "y": 115
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 3,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 74,
+          "y": 117
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 10
+    },
+    {
+      "type": "Fill",
+      "startPositions": [
+        {
+          "x": 52,
+          "y": 99
+        },
+        {
+          "x": 59,
+          "y": 106
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 35,
+          "y": 116
+        },
+        {
+          "x": 42,
+          "y": 105
+        },
+        {
+          "x": 43,
+          "y": 104
+        },
+        {
+          "x": 53,
+          "y": 104
+        },
+        {
+          "x": 55,
+          "y": 102
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 35,
+        "y": 103
+      },
+      "relativePoints": [
+        {
+          "x": 5,
+          "y": -5
+        },
+        {
+          "x": 2,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 42,
+          "y": 97
+        },
+        {
+          "x": 35,
+          "y": 104
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 52,
+          "y": 94
+        },
+        {
+          "x": 52,
+          "y": 81
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 51,
+        "y": 96
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 39,
+          "y": 119
+        },
+        {
+          "x": 45,
+          "y": 109
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 62,
+        "y": 109
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": 3
+        },
+        {
+          "x": 1,
+          "y": 3
+        },
+        {
+          "x": 4,
+          "y": 4
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 63,
+        "y": 112
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": 4
+        },
+        {
+          "x": 2,
+          "y": 3
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 73,
+        "y": 119
+      },
+      "relativePoints": [
+        {
+          "x": -3,
+          "y": 0
+        },
+        {
+          "x": -2,
+          "y": -2
+        },
+        {
+          "x": -3,
+          "y": -6
+        },
+        {
+          "x": -2,
+          "y": -3
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 4,
+          "y": 7
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 62,
+          "y": 108
+        },
+        {
+          "x": 46,
+          "y": 108
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 65,
+        "y": 117
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 84,
+        "y": 115
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": -1
+        },
+        {
+          "x": 0,
+          "y": -3
+        },
+        {
+          "x": 0,
+          "y": -4
+        },
+        {
+          "x": 1,
+          "y": -3
+        },
+        {
+          "x": 3,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 91,
+          "y": 106
+        },
+        {
+          "x": 91,
+          "y": 117
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 88,
+          "y": 117
+        },
+        {
+          "x": 88,
+          "y": 107
+        },
+        {
+          "x": 88,
+          "y": 105
+        },
+        {
+          "x": 89,
+          "y": 105
+        },
+        {
+          "x": 89,
+          "y": 117
+        },
+        {
+          "x": 90,
+          "y": 117
+        },
+        {
+          "x": 90,
+          "y": 106
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 35,
+          "y": 111
+        },
+        {
+          "x": 43,
+          "y": 100
+        },
+        {
+          "x": 52,
+          "y": 100
+        },
+        {
+          "x": 54,
+          "y": 98
+        },
+        {
+          "x": 54,
+          "y": 81
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 37,
+          "y": 119
+        },
+        {
+          "x": 44,
+          "y": 107
+        },
+        {
+          "x": 46,
+          "y": 106
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 56,
+        "y": 103
+      },
+      "relativePoints": [
+        {
+          "x": 6,
+          "y": 0
+        },
+        {
+          "x": 4,
+          "y": 5
+        },
+        {
+          "x": 4,
+          "y": 6
+        },
+        {
+          "x": 4,
+          "y": 2
+        },
+        {
+          "x": 3,
+          "y": 1
+        },
+        {
+          "x": 5,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 88,
+        "y": 119
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": -2
+        },
+        {
+          "x": 0,
+          "y": -4
+        },
+        {
+          "x": 0,
+          "y": -7
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 91,
+          "y": 107
+        },
+        {
+          "x": 91,
+          "y": 117
+        },
+        {
+          "x": 90,
+          "y": 118
+        },
+        {
+          "x": 90,
+          "y": 119
+        },
+        {
+          "x": 89,
+          "y": 119
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 57,
+        "y": 98
+      },
+      "relativePoints": [
+        {
+          "x": 3,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 61,
+          "y": 97
+        },
+        {
+          "x": 61,
+          "y": 86
+        },
+        {
+          "x": 61,
+          "y": 78
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 57,
+        "y": 96
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 59,
+          "y": 95
+        },
+        {
+          "x": 59,
+          "y": 79
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 45,
+        "y": 65
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -7
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 45,
+          "y": 49
+        },
+        {
+          "x": 45,
+          "y": 41
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 112,
+        "y": 55
+      },
+      "relativePoints": [
+        {
+          "x": -2,
+          "y": 0
+        },
+        {
+          "x": -1,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 109,
+          "y": 56
+        },
+        {
+          "x": 109,
+          "y": 93
+        },
+        {
+          "x": 108,
+          "y": 94
+        },
+        {
+          "x": 104,
+          "y": 94
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 104,
+        "y": 92
+      },
+      "relativePoints": [
+        {
+          "x": 3,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -2
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 107,
+          "y": 90
+        },
+        {
+          "x": 107,
+          "y": 55
+        },
+        {
+          "x": 108,
+          "y": 53
+        },
+        {
+          "x": 112,
+          "y": 53
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 104,
+        "y": 90
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 105,
+          "y": 90
+        },
+        {
+          "x": 105,
+          "y": 54
+        },
+        {
+          "x": 106,
+          "y": 52
+        },
+        {
+          "x": 107,
+          "y": 51
+        },
+        {
+          "x": 112,
+          "y": 51
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 102,
+          "y": 90
+        },
+        {
+          "x": 80,
+          "y": 90
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 102,
+        "y": 92
+      },
+      "relativePoints": [
+        {
+          "x": -3,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 113,
+          "y": 51
+        },
+        {
+          "x": 126,
+          "y": 46
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 113,
+          "y": 53
+        },
+        {
+          "x": 126,
+          "y": 50
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 113,
+          "y": 55
+        },
+        {
+          "x": 126,
+          "y": 54
+        }
+      ]
+    },
+    {
+      "type": "DisablePictureDraw"
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 10
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 79,
+          "y": 84
+        },
+        {
+          "x": 79,
+          "y": 60
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 37,
+          "y": 126
+        },
+        {
+          "x": 45,
+          "y": 109
+        },
+        {
+          "x": 62,
+          "y": 109
+        },
+        {
+          "x": 67,
+          "y": 121
+        },
+        {
+          "x": 90,
+          "y": 121
+        },
+        {
+          "x": 90,
+          "y": 120
+        },
+        {
+          "x": 90,
+          "y": 119
+        },
+        {
+          "x": 91,
+          "y": 118
+        },
+        {
+          "x": 91,
+          "y": 117
+        },
+        {
+          "x": 94,
+          "y": 117
+        },
+        {
+          "x": 95,
+          "y": 116
+        },
+        {
+          "x": 97,
+          "y": 116
+        },
+        {
+          "x": 98,
+          "y": 115
+        },
+        {
+          "x": 99,
+          "y": 115
+        },
+        {
+          "x": 102,
+          "y": 111
+        },
+        {
+          "x": 103,
+          "y": 110
+        },
+        {
+          "x": 103,
+          "y": 108
+        },
+        {
+          "x": 100,
+          "y": 106
+        },
+        {
+          "x": 80,
+          "y": 106
+        },
+        {
+          "x": 79,
+          "y": 108
+        },
+        {
+          "x": 79,
+          "y": 110
+        },
+        {
+          "x": 80,
+          "y": 112
+        },
+        {
+          "x": 81,
+          "y": 113
+        },
+        {
+          "x": 83,
+          "y": 114
+        },
+        {
+          "x": 83,
+          "y": 118
+        },
+        {
+          "x": 70,
+          "y": 118
+        },
+        {
+          "x": 64,
+          "y": 108
+        },
+        {
+          "x": 56,
+          "y": 108
+        },
+        {
+          "x": 56,
+          "y": 104
+        },
+        {
+          "x": 87,
+          "y": 104
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 113,
+        "y": 97
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 114,
+          "y": 98
+        },
+        {
+          "x": 130,
+          "y": 126
+        },
+        {
+          "x": 37,
+          "y": 126
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 67,
+        "y": 112
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -5
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 66,
+        "y": 110
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -4
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 65,
+        "y": 108
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -3
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 82,
+          "y": 113
+        },
+        {
+          "x": 82,
+          "y": 100
+        },
+        {
+          "x": 81,
+          "y": 99
+        },
+        {
+          "x": 81,
+          "y": 112
+        },
+        {
+          "x": 80,
+          "y": 110
+        },
+        {
+          "x": 80,
+          "y": 98
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 80,
+          "y": 61
+        },
+        {
+          "x": 80,
+          "y": 52
+        },
+        {
+          "x": 81,
+          "y": 51
+        },
+        {
+          "x": 81,
+          "y": 61
+        },
+        {
+          "x": 82,
+          "y": 61
+        },
+        {
+          "x": 82,
+          "y": 50
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 93,
+          "y": 39
+        },
+        {
+          "x": 93,
+          "y": 49
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 47,
+          "y": 42
+        },
+        {
+          "x": 47,
+          "y": 43
+        },
+        {
+          "x": 48,
+          "y": 43
+        },
+        {
+          "x": 48,
+          "y": 49
+        },
+        {
+          "x": 47,
+          "y": 49
+        },
+        {
+          "x": 47,
+          "y": 50
+        },
+        {
+          "x": 49,
+          "y": 50
+        },
+        {
+          "x": 49,
+          "y": 43
+        },
+        {
+          "x": 52,
+          "y": 43
+        },
+        {
+          "x": 52,
+          "y": 50
+        },
+        {
+          "x": 53,
+          "y": 50
+        },
+        {
+          "x": 53,
+          "y": 44
+        },
+        {
+          "x": 52,
+          "y": 42
+        },
+        {
+          "x": 47,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 59,
+        "y": 80
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -2
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 55,
+          "y": 42
+        },
+        {
+          "x": 55,
+          "y": 50
+        },
+        {
+          "x": 56,
+          "y": 50
+        },
+        {
+          "x": 56,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 58,
+          "y": 42
+        },
+        {
+          "x": 58,
+          "y": 43
+        },
+        {
+          "x": 61,
+          "y": 43
+        },
+        {
+          "x": 61,
+          "y": 50
+        },
+        {
+          "x": 62,
+          "y": 50
+        },
+        {
+          "x": 62,
+          "y": 43
+        },
+        {
+          "x": 60,
+          "y": 42
+        },
+        {
+          "x": 58,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 64,
+          "y": 42
+        },
+        {
+          "x": 64,
+          "y": 46
+        },
+        {
+          "x": 65,
+          "y": 46
+        },
+        {
+          "x": 65,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 67,
+          "y": 46
+        },
+        {
+          "x": 67,
+          "y": 50
+        },
+        {
+          "x": 68,
+          "y": 50
+        },
+        {
+          "x": 68,
+          "y": 46
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 67,
+          "y": 43
+        },
+        {
+          "x": 70,
+          "y": 43
+        },
+        {
+          "x": 71,
+          "y": 45
+        },
+        {
+          "x": 71,
+          "y": 50
+        },
+        {
+          "x": 72,
+          "y": 50
+        },
+        {
+          "x": 72,
+          "y": 44
+        },
+        {
+          "x": 71,
+          "y": 42
+        },
+        {
+          "x": 67,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 74,
+          "y": 42
+        },
+        {
+          "x": 75,
+          "y": 43
+        },
+        {
+          "x": 75,
+          "y": 50
+        },
+        {
+          "x": 76,
+          "y": 50
+        },
+        {
+          "x": 76,
+          "y": 44
+        },
+        {
+          "x": 77,
+          "y": 45
+        },
+        {
+          "x": 77,
+          "y": 44
+        },
+        {
+          "x": 75,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 4
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 53,
+        "y": 43
+      },
+      "relativePoints": []
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 53,
+        "y": 44
+      },
+      "relativePoints": [
+        {
+          "x": -3,
+          "y": -2
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": -3,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 56,
+        "y": 46
+      },
+      "relativePoints": [
+        {
+          "x": -1,
+          "y": -1
+        },
+        {
+          "x": 0,
+          "y": -3
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 3
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 62,
+        "y": 49
+      },
+      "relativePoints": [
+        {
+          "x": -1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -5
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 4
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 58,
+        "y": 42
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": -2,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 61,
+        "y": 43
+      },
+      "relativePoints": []
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 65,
+        "y": 45
+      },
+      "relativePoints": [
+        {
+          "x": -1,
+          "y": -1
+        },
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 67,
+        "y": 46
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 4
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 68,
+        "y": 47
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 71,
+        "y": 48
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 72,
+        "y": 49
+      },
+      "relativePoints": []
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 75,
+        "y": 50
+      },
+      "relativePoints": []
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 47,
+        "y": 50
+      },
+      "relativePoints": []
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 67,
+          "y": 51
+        },
+        {
+          "x": 77,
+          "y": 51
+        },
+        {
+          "x": 74,
+          "y": 51
+        },
+        {
+          "x": 74,
+          "y": 50
+        },
+        {
+          "x": 73,
+          "y": 50
+        },
+        {
+          "x": 73,
+          "y": 49
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 55,
+          "y": 41
+        },
+        {
+          "x": 47,
+          "y": 41
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 56,
+        "y": 41
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 5
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -3
+        },
+        {
+          "x": -2,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 53,
+        "y": 42
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 63,
+        "y": 45
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 0,
+          "y": 5
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -4
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": -2,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 69,
+        "y": 47
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 3
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -2
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 53,
+          "y": 52
+        },
+        {
+          "x": 68,
+          "y": 52
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 69,
+          "y": 52
+        },
+        {
+          "x": 78,
+          "y": 52
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 52,
+          "y": 52
+        },
+        {
+          "x": 45,
+          "y": 52
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 80,
+          "y": 49
+        },
+        {
+          "x": 80,
+          "y": 41
+        },
+        {
+          "x": 87,
+          "y": 41
+        },
+        {
+          "x": 87,
+          "y": 42
+        },
+        {
+          "x": 81,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 46,
+        "y": 50
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 3,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "DisablePictureDraw"
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 87,
+        "y": 104
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -7
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 87,
+          "y": 97
+        },
+        {
+          "x": 113,
+          "y": 97
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 87,
+          "y": 90
+        },
+        {
+          "x": 87,
+          "y": 64
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 87,
+        "y": 89
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -3
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 87,
+        "y": 80
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -7
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 87,
+        "y": 68
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -4
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 87,
+        "y": 85
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -4
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 87,
+        "y": 72
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -3
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 50,
+        "y": 89
+      },
+      "relativePoints": [
+        {
+          "x": -4,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 57,
+        "y": 89
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 58,
+          "y": 89
+        },
+        {
+          "x": 72,
+          "y": 89
+        },
+        {
+          "x": 72,
+          "y": 53
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 46,
+          "y": 89
+        },
+        {
+          "x": 46,
+          "y": 53
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 46,
+        "y": 73
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -6
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 46,
+        "y": 57
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -4
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 72,
+          "y": 80
+        },
+        {
+          "x": 72,
+          "y": 88
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 72,
+        "y": 73
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -7
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 72,
+        "y": 60
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -5
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 72,
+        "y": 54
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 72,
+        "y": 65
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -4
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 72,
+        "y": 79
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -5
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 49,
+          "y": 55
+        },
+        {
+          "x": 49,
+          "y": 77
+        },
+        {
+          "x": 46,
+          "y": 77
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 49,
+        "y": 55
+      },
+      "relativePoints": [
+        {
+          "x": -3,
+          "y": 0
+        },
+        {
+          "x": -1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 49,
+        "y": 73
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -6
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 49,
+        "y": 58
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -3
+        },
+        {
+          "x": -2,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 46,
+        "y": 77
+      },
+      "relativePoints": [
+        {
+          "x": -1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 57,
+          "y": 93
+        },
+        {
+          "x": 73,
+          "y": 93
+        },
+        {
+          "x": 74,
+          "y": 92
+        },
+        {
+          "x": 74,
+          "y": 72
+        },
+        {
+          "x": 73,
+          "y": 72
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 73,
+        "y": 70
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 76,
+          "y": 71
+        },
+        {
+          "x": 76,
+          "y": 95
+        },
+        {
+          "x": 68,
+          "y": 95
+        },
+        {
+          "x": 68,
+          "y": 104
+        },
+        {
+          "x": 67,
+          "y": 106
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 69,
+        "y": 108
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": -4
+        },
+        {
+          "x": 0,
+          "y": -7
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 70,
+          "y": 97
+        },
+        {
+          "x": 77,
+          "y": 97
+        },
+        {
+          "x": 78,
+          "y": 97
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 4
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 74,
+        "y": 80
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -5
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 2
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 76,
+        "y": 80
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -4
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 41,
+          "y": 96
+        },
+        {
+          "x": 41,
+          "y": 46
+        },
+        {
+          "x": 44,
+          "y": 46
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 44,
+        "y": 44
+      },
+      "relativePoints": [
+        {
+          "x": -4,
+          "y": 0
+        },
+        {
+          "x": -1,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 39,
+          "y": 45
+        },
+        {
+          "x": 39,
+          "y": 84
+        },
+        {
+          "x": 38,
+          "y": 85
+        },
+        {
+          "x": 35,
+          "y": 88
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 35,
+        "y": 85
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": -2
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 37,
+          "y": 83
+        },
+        {
+          "x": 37,
+          "y": 44
+        },
+        {
+          "x": 37,
+          "y": 44
+        },
+        {
+          "x": 38,
+          "y": 42
+        },
+        {
+          "x": 44,
+          "y": 42
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 2
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 41,
+          "y": 58
+        },
+        {
+          "x": 41,
+          "y": 50
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 41,
+          "y": 76
+        },
+        {
+          "x": 41,
+          "y": 68
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 4
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 39,
+          "y": 78
+        },
+        {
+          "x": 39,
+          "y": 70
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 39,
+          "y": 59
+        },
+        {
+          "x": 39,
+          "y": 50
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 5
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 37,
+          "y": 79
+        },
+        {
+          "x": 37,
+          "y": 70
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 37,
+          "y": 60
+        },
+        {
+          "x": 37,
+          "y": 50
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 110,
+          "y": 119
+        },
+        {
+          "x": 104,
+          "y": 98
+        },
+        {
+          "x": 104,
+          "y": 102
+        },
+        {
+          "x": 107,
+          "y": 112
+        },
+        {
+          "x": 109,
+          "y": 119
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 10
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 112,
+        "y": 108
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -4
+        },
+        {
+          "x": 4,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 3
+        },
+        {
+          "x": -3,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": -3,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 116,
+        "y": 108
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 117,
+        "y": 119
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -4
+        },
+        {
+          "x": 5,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 4
+        },
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": -4,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 3,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": -3,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 112,
+        "y": 115
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 108,
+        "y": 103
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 115,
+        "y": 111
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 112,
+        "y": 111
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": -1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 106,
+        "y": 99
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 109,
+        "y": 99
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 112,
+        "y": 99
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 113,
+        "y": 101
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 118,
+        "y": 111
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 109,
+        "y": 108
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 47,
+        "y": 112
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": -1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 45,
+        "y": 116
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": -1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 53,
+          "y": 110
+        },
+        {
+          "x": 51,
+          "y": 119
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 57,
+        "y": 115
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 57,
+        "y": 112
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 57,
+        "y": 118
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 60,
+        "y": 117
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 60,
+        "y": 113
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 112,
+        "y": 104
+      },
+      "relativePoints": [
+        {
+          "x": 4,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 117,
+        "y": 115
+      },
+      "relativePoints": [
+        {
+          "x": 5,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "DisablePictureDraw"
+    },
+    {
+      "type": "SetPriorityColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 112,
+        "y": 108
+      },
+      "relativePoints": [
+        {
+          "x": 4,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 117,
+        "y": 120
+      },
+      "relativePoints": [
+        {
+          "x": 5,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "DisablePriorityDraw"
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 110,
+        "y": 48
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 110,
+        "y": 46
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 110,
+        "y": 94
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 110,
+        "y": 92
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 46,
+        "y": 94
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 46,
+        "y": 92
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 109,
+        "y": 94
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 109,
+        "y": 48
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -2
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 9
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 110,
+        "y": 45
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 110,
+        "y": 47
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 110,
+        "y": 91
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 110,
+        "y": 93
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 46,
+        "y": 93
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 46,
+        "y": 91
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 11
+    },
+    {
+      "type": "PlotWithPen",
+      "points": [
+        {
+          "position": {
+            "x": 111,
+            "y": 45
+          }
+        },
+        {
+          "position": {
+            "x": 111,
+            "y": 91
+          }
+        },
+        {
+          "position": {
+            "x": 47,
+            "y": 91
+          }
+        },
+        {
+          "position": {
+            "x": 46,
+            "y": 91
+          }
+        },
+        {
+          "position": {
+            "x": 110,
+            "y": 45
+          }
+        },
+        {
+          "position": {
+            "x": 110,
+            "y": 91
+          }
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "AbsoluteLine",
+      "points": [
+        {
+          "x": 68,
+          "y": 117
+        },
+        {
+          "x": 63,
+          "y": 108
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 4
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 92,
+        "y": 70
+      },
+      "relativePoints": [
+        {
+          "x": 1,
+          "y": -1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 0,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 93,
+        "y": 70
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": -1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 12
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 92,
+        "y": 71
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 3
+        },
+        {
+          "x": 4,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": -3,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -2
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 1,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 4
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 93,
+        "y": 75
+      },
+      "relativePoints": [
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": -2,
+          "y": 1
+        },
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": -3,
+          "y": -1
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 12
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 96,
+        "y": 75
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 0
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 95,
+        "y": 77
+      },
+      "relativePoints": [
+        {
+          "x": -3,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -1
+        },
+        {
+          "x": -1,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": -2
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 91,
+        "y": 70
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 96,
+        "y": 76
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "type": "SetPictureColor",
+      "colorNumber": 1
+    },
+    {
+      "type": "RelativeLine",
+      "startPosition": {
+        "x": 91,
+        "y": 73
+      },
+      "relativePoints": [
+        {
+          "x": 0,
+          "y": -2
+        }
+      ]
+    }
+  ]
+}

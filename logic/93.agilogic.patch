@@ -1,0 +1,32 @@
+--- project/tmp/src/logic/93.agilogic	2025-11-28 17:00:29.507930008 +0000
++++ translations/sq2/logic/93.agilogic	2025-12-03 23:29:47.565345007 +0000
+@@ -91,7 +91,7 @@
+   set.priority(o11, 4);
+   ignore.blocks(o11);
+   ignore.objs(o11);
+-  position(o11, 66, 81);
++  position(o11, 59, 81);
+   set.view(o0, 172);
+   position(o0, 75, 99);
+   set.loop(o0, 2);
+@@ -280,9 +280,10 @@
+
+ if (v41 == 1) {
+   if (!(v42 > 0)) {
++    position(o11, 59, 81);
+     draw(o11);
+     stop.cycling(o11);
+-    move.obj(o11, 66, 29, 0, f40);
++    move.obj(o11, 59, 29, 0, f40);
+     sound(60, f61);
+     v42 = 1;
+   } else {
+@@ -293,7 +294,7 @@
+     if (v42 == 1) {
+       set.cel(o11, 1);
+       stop.cycling(o11);
+-      reposition.to(o11, 65, 19);
++      reposition.to(o11, 59, 19);
+       v42 = 2;
+       v41 = 100;
+     }

@@ -1,0 +1,19 @@
+--- project/tmp/src/logic/69.agilogic	
++++ translations/sq2/logic/69.agilogic
+@@ -7,14 +7,14 @@
+   load.view(155);
+   load.sound(32);
+   draw.pic(v0);
+-  add.to.pic(155, 0, 0, 61, 28, 4, 4);
++  add.to.pic(155, 0, 0, 81, 28, 4, 4);
+   animate.obj(o1);
+   set.view(o1, 155);
+   set.loop(o1, 1);
+   set.cel.v(o1, v122);
+   ignore.blocks(o1);
+   ignore.objs(o1);
+-  position(o1, 87, 33);
++  position(o1, 67, 33);
+   draw(o1);
+   stop.update(o1);
+   show.pic();

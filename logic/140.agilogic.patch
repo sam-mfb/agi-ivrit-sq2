@@ -1,0 +1,320 @@
+--- project/tmp/src/logic/140.agilogic	
++++ translations/sq2/logic/140.agilogic
+@@ -15,6 +15,7 @@
+   load.view(210);
+   load.view(211);
+   load.view(212);
++  load.view(213);
+   load.sound(60);
+   draw.pic(v0);
+   animate.obj(o1);
+@@ -24,10 +25,10 @@
+   set.priority(o1, 5);
+   ignore.blocks(o1);
+   ignore.objs(o1);
+-  position(o1, 0, 167);
++  position(o1, 159, 167);
+   step.size(o1, v87);
+   draw(o1);
+-  move.obj(o1, 146, 21, 0, f30);
++  move.obj(o1, 13, 21, 0, f30);
+   set(f34);
+   v31 = 1;
+   animate.obj(o2);
+@@ -115,23 +116,23 @@
+   }
+ 
+   if (f34) {
+-    if ((v31 != 3) && posn(o1, 74, 92, 75, 93)) {
++    if ((v31 != 3) && posn(o1, 84, 92, 85, 93)) {
+       if (v26 == 2) {
+-        position(o2, 76, 145);
++        position(o2, 83, 145);
+       } else {
+-        position(o2, 54, 167);
++        position(o2, 105, 167);
+       }
+       draw(o2);
+-      move.obj(o2, 142, 79, 0, f31);
++      move.obj(o2, 17, 79, 0, f31);
+       reset(f34);
+       v31 = 3;
+     }
+   
+-    if (posn(o1, 17, 149, 19, 149)) {
+-      position(o3, 5, 162);
++    if (posn(o1, 140, 149, 142, 149)) {
++      position(o3, 154, 162);
+       draw(o3);
+       stop.cycling(o3);
+-      move.obj(o3, 141, 26, 0, f32);
++      move.obj(o3, 18, 26, 0, f32);
+       v31 = 2;
+     }
+   }
+@@ -142,21 +143,18 @@
+     reset(f33);
+     stop.update(o4);
+     stop.update(o5);
+-    add.to.pic(190, 0, 0, 25, 86, 4, 4);
+-    add.to.pic(190, 0, 1, 42, 86, 4, 4);
+-    add.to.pic(190, 0, 2, 57, 86, 4, 4);
+-    add.to.pic(190, 0, 3, 72, 86, 4, 4);
+-    add.to.pic(190, 0, 4, 89, 86, 4, 4);
+-    add.to.pic(190, 0, 5, 104, 86, 4, 4);
+-    add.to.pic(190, 0, 6, 116, 57, 4, 4);
+-    add.to.pic(190, 0, 7, 120, 86, 4, 4);
+-    add.to.pic(190, 1, 0, 25, 124, 4, 4);
+-    add.to.pic(190, 1, 1, 40, 124, 4, 4);
+-    add.to.pic(190, 1, 2, 55, 124, 4, 4);
+-    add.to.pic(190, 1, 3, 72, 124, 4, 4);
+-    add.to.pic(190, 1, 4, 87, 124, 4, 4);
+-    add.to.pic(190, 1, 5, 102, 124, 4, 4);
+-    add.to.pic(190, 1, 6, 117, 124, 4, 4);
++    add.to.pic(190, 0, 0, 103, 86, 4, 4);
++    add.to.pic(190, 0, 1, 90, 101, 4, 4);
++    add.to.pic(190, 0, 2, 71, 86, 4, 4);
++    add.to.pic(190, 0, 3, 51, 86, 4, 4);
++    add.to.pic(190, 0, 4, 45, 86, 4, 4);
++    add.to.pic(190, 1, 0, 117, 124, 4, 4);
++    add.to.pic(190, 1, 1, 102, 124, 4, 4);
++    add.to.pic(190, 1, 2, 82, 124, 4, 4);
++    add.to.pic(190, 1, 3, 76, 124, 4, 4);
++    add.to.pic(190, 1, 4, 60, 124, 4, 4);
++    add.to.pic(190, 1, 5, 42, 124, 4, 4);
++    add.to.pic(190, 1, 6, 27, 124, 4, 4);
+     v33 = 50;
+     v31 = 7;
+   }
+@@ -176,7 +174,7 @@
+     erase(o3);
+     v53 = 141;
+     draw.pic(v53);
+-    position(o4, 46, 61);
++    position(o4, 65, 61);
+     draw(o4);
+     stop.cycling(o4);
+     show.pic();
+@@ -191,7 +189,7 @@
+   v30--;
+ 
+   if ((v30 == 10) && (v31 == 4)) {
+-    position(o5, 64, 84);
++    position(o5, 65, 84);
+     draw(o5);
+     stop.cycling(o5);
+   }
+@@ -199,8 +197,8 @@
+   if (v30 == 1) {
+     if (v31 == 5) {
+       show.pic();
+-      move.obj(o4, 46, 26, 0, f33);
+-      move.obj(o5, 64, 49, 0, f52);
++      move.obj(o4, 65, 26, 0, f33);
++      move.obj(o5, 65, 49, 0, f52);
+       v31 = 6;
+     }
+   
+@@ -226,26 +224,55 @@
+       erase(o12);
+     }
+   
+-    if (v31 == 11) {
+-      v31 = 12;
++    if (v31 == 12) {
++      v31 = 13;
++      erase(o6);
++      erase(o7);
++      erase(o9);
++      v53 = 141;
++      draw.pic(v53);
++      show.pic();
+       display(4, 1, m4);
+       display(11, 1, m5);
+       display(16, 10, m6);
+       set(f43);
+       v34 = 3;
+     }
++
++    if (v31 == 11) {
++      v31 = 12;
++      show.pic();
++      set.view(o6, 213);
++      set.loop(o6, 0);
++      set.cel(o6, 0);
++      position(o6, 66, 56);
++      stop.cycling(o6);
++      set.view(o7, 211);
++      set.cel(o7, 0);
++      position(o7, 65, 72);
++      stop.cycling(o7);
++      set.view(o9, 213);
++      set.loop(o9, 1);
++      set.cel(o9, 0);
++      position(o9, 60, 111);
++      draw(o6);
++      draw(o7);
++      draw(o9);
++      end.of.loop(o9, f39);
++      v33 = 50;
++    }
+   
+     if (v31 == 10) {
+       v31 = 11;
+       set.view(o6, 210);
+       set.loop(o6, 2);
+-      position(o6, 45, 61);
++      position(o6, 64, 61);
+       set.view(o7, 211);
+-      position(o7, 95, 61);
++      position(o7, 65, 81);
+       set.view(o8, 212);
+       set.loop(o8, 1);
+       set.cel(o8, 0);
+-      position(o8, 47, 82);
++      position(o8, 53, 102);
+       draw(o6);
+       draw(o7);
+       draw(o8);
+@@ -256,13 +283,13 @@
+       v31 = 10;
+       set.view(o6, 210);
+       set.loop(o6, 1);
+-      position(o6, 41, 52);
++      position(o6, 65, 52);
+       set.view(o7, 211);
+-      position(o7, 109, 52);
++      position(o7, 65, 72);
+       set.view(o8, 212);
+       set.loop(o8, 0);
+       set.cel(o8, 0);
+-      position(o8, 46, 76);
++      position(o8, 56, 96);
+       draw(o6);
+       draw(o7);
+       draw(o8);
+@@ -274,33 +301,33 @@
+       set.view(o6, 210);
+       set.loop(o6, 3);
+       set.cel(o6, 0);
+-      position(o6, 68, 32);
++      position(o6, 63, 32);
+       stop.cycling(o6);
+       set.view(o7, 210);
+       set.loop(o7, 3);
+       set.cel(o7, 1);
+-      position(o7, 48, 44);
++      position(o7, 66, 42);
+       stop.cycling(o7);
+       set.view(o8, 210);
+       set.loop(o8, 3);
+       set.cel(o8, 2);
+-      position(o8, 63, 56);
++      position(o8, 61, 54);
+       stop.cycling(o8);
+       set.view(o9, 211);
+       set.loop(o9, 0);
+-      position(o9, 75, 73);
++      position(o9, 65, 71);
+       set.view(o10, 212);
+       set.loop(o10, 2);
+       set.cel(o10, 0);
+-      position(o10, 38, 92);
++      position(o10, 54, 90);
+       set.view(o11, 212);
+       set.loop(o11, 3);
+       set.cel(o11, 0);
+-      position(o11, 54, 108);
++      position(o11, 56, 106);
+       set.view(o12, 212);
+       set.loop(o12, 4);
+       set.cel(o12, 0);
+-      position(o12, 43, 125);
++      position(o12, 47, 123);
+       draw(o6);
+       draw(o7);
+       draw(o8);
+@@ -323,27 +350,28 @@
+       set.view(o6, 210);
+       set.loop(o6, 0);
+       set.cel(o6, 0);
+-      position(o6, 45, 41);
++      position(o6, 67, 41);
+       set.view(o7, 211);
+       set.cel(o7, 0);
+-      position(o7, 94, 41);
++      position(o7, 65, 61);
+       set.view(o8, 212);
+       set.loop(o8, 1);
+       set.cel(o8, 0);
+       set.view(o9, 211);
+       set.loop(o9, 1);
+-      position(o9, 66, 79);
+       set.view(o10, 212);
+       set.loop(o10, 0);
+       set.cel(o10, 0);
+       random(1, 100, v66);
+     
+       if (v66 > 50) {
+-        position(o8, 45, 98);
+-        position(o10, 41, 61);
++        position(o8, 53, 100);
++        position(o10, 56, 81);
++        position(o9, 108, 98);
+       } else {
+-        position(o8, 45, 61);
+-        position(o10, 41, 98);
++        position(o8, 53, 81);
++        position(o10, 56, 100);
++        position(o9, 106, 98);
+       }
+       draw(o6);
+       draw(o7);
+@@ -373,19 +401,19 @@
+       v34--;
+     
+       if (v34 == 1) {
+-        if (v31 == 13) {
++        if (v31 == 14) {
+           reset.scan.start();
+           reset(f7);
+           new.room(140);
+         }
+-      
+-        if (v31 == 12) {
++
++        if (v31 == 13) {
+           show.pic();
+           display(2, 1, m7);
+           display(7, 1, m8);
+           display(13, 1, m9);
+           display(18, 10, m10);
+-          v31 = 13;
++          v31 = 14;
+           set(f43);
+           v34 = 3;
+         }
+@@ -395,19 +423,19 @@
+   Address1124:
+   
+     if (have.key() || f2) {
+-      if (v31 == 13) {
++      if (v31 == 14) {
+         reset.scan.start();
+         reset(f7);
+         new.room(1);
+       }
+-    
+-      if (v31 == 12) {
++
++      if (v31 == 13) {
+         show.pic();
+         display(2, 1, m7);
+         display(7, 1, m8);
+         display(13, 1, m9);
+         display(18, 10, m10);
+-        v31 = 13;
++        v31 = 14;
+         set(f43);
+         v34 = 3;
+       }

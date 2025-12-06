@@ -1,0 +1,51 @@
+--- project/tmp/src/logic/46.agilogic	
++++ translations/sq2/logic/46.agilogic
+@@ -876,34 +876,34 @@
+           set.text.attribute(10, 0);
+         
+           if (v40 != 5) {
+-            display(6, 7, m28);
++            display(6, 19, m28);
+           
+             if (v40 > 1) {
+-              display(8, 12, m29);
++              display(8, 23, m29);
+             } else {
+-              display(8, 10, m30);
++              display(8, 21, m30);
+             }
+           } else {
+-            display(6, 7, m44);
+-            display(8, 11, m45);
++            display(6, 18, m44);
++            display(8, 23, m45);
+           }
+-          display(11, 7, m25);
++          display(11, 19, m25);
+         
+           if (v37 == 1) {
+-            display(13, 7, m26);
+-            display(15, 6, m33);
+-            display(16, 8, m34);
++            display(13, 19, m26);
++            display(15, 18, m33);
++            display(16, 18, m34);
+           } else {
+-            display(13, 6, m27);
+-            display(15, 7, m35);
+-            display(16, 7, m36);
++            display(13, 19, m27);
++            display(15, 18, m35);
++            display(16, 18, m36);
+           }
+           set.text.attribute(15, 0);
+         
+           if (v26 == 2) {
+-            display(24, 8, m65);
++            display(24, 20, m65);
+           } else {
+-            display(21, 8, m65);
++            display(21, 20, m65);
+           }
+           set.text.attribute(10, 0);
+           status.line.off();
