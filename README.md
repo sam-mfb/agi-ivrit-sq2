@@ -1,13 +1,21 @@
 # agi-ivrit-sq2
 
-This repository contains all the files needed to patch Space Quest II to run in Hebrew.
+מאגר זה מכיל את כל הקבצים הדרושים להתקנת תרגום עברי למשחק Space Quest II.
 
-If you just want to patch your legally purchased version download the patch executable in Releases.
+## איך להתקין ולשחק
 
-If you want to modify the translation or otherwise experiment with it, please look at the instructions in the [agi-ivrit](https://github.com/sam-mfb/agi-ivrit) repo.
+1. יש להחזיק בגרסה מקורית של המשחק בגרסת DOS 2.0F (ניתן לרכוש ב-GOG)
+2. הורידו את הטלאי ממדור ה-Releases של מאגר זה
+3. הריצו את הטלאי כדי להחיל את התרגום העברי על קבצי המשחק
+4. התקינו את הגרסה היומית האחרונה של [ScummVM](https://buildbot.scummvm.org/#/dailybuilds)
+5. הריצו את ScummVM והוסיפו את תיקיית המשחק המתורגם
 
-## Review and Edit Translations
+## פיתוח
 
-View and edit translations at: https://sam-mfb.github.io/agi-ivrit-sq2/
+אם ברצונכם לשנות את התרגום או להתנסות בו, עיינו בהוראות במאגר [agi-ivrit](https://github.com/sam-mfb/agi-ivrit).
 
-To contribute changes, export the JSON files and submit a PR or send them to the repo author.
+## סקירה ועריכת תרגומים
+
+צפו וערכו תרגומים בכתובת: https://sam-mfb.github.io/agi-ivrit-sq2/
+
+כדי לתרום שינויים, ייצאו את קבצי ה-JSON ושלחו PR או העבירו אותם למחבר המאגר.
